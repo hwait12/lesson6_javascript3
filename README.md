@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hannah Wait
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I created a photo gallery that allowed users to browse a collection of photos and change how many photos they previewed at once.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hwait12.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create buttons that will navigate through a photo gallery
+2. How to create new element nodes
+3. How to add new element nodes to a DOM tree.
